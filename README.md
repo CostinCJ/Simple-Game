@@ -9,3 +9,5 @@ This Unity game is a learning project I made using tutorial assets created for b
 - **2D Game Scene**: A simple 2D game where a car collects stars in a colorful environment. I also added an animated cat to make it more fun and learned how to design 2D environments and animations.
 
 This project was a great learning experience for me because I got to practice while creating something fun. It helped me take my first steps toward understanding Unity and game development!
+
+Here is the link to try the game: https://play.unity.com/en/games/8f6fae44-5115-4bb0-b9c5-f7c3e71ccf42/learning
